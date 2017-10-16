@@ -26,3 +26,6 @@
     * [objdump](tools/objdump.md)
     * [axel](tools/axel.md)
     * [git](tools/git.md)
+    * [hping](tools/hping.md)
+    * [traceroute](tools/traceroute.md)
+    * [passwd](tools/passwd.md)

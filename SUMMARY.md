@@ -31,3 +31,4 @@
     * [passwd](tools/passwd.md)
     * [shadow](tools/shadow.md)
     * [cpuinfo](tools/cpuinfo.md)
+    * [history](tools/history.md)

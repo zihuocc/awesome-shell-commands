@@ -30,6 +30,4 @@
     * [traceroute](tools/traceroute.md)
     * [passwd](tools/passwd.md)
     * [shadow](tools/shadow.md)
-    * [id_rsa](tools/id_rsa.md)
-    * [id_rsa.pub](tools/id_rsa.pub.md)
-    * [known_hosts](tools/known_hosts.md)
+    * [cpuinfo](tools/cpuinfo.md)

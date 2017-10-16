@@ -29,3 +29,4 @@
     * [hping](tools/hping.md)
     * [traceroute](tools/traceroute.md)
     * [passwd](tools/passwd.md)
+    * [shadow](tools/shadow.md)

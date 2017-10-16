@@ -1,0 +1,1 @@
+/proc/self/root/root/.bash_history
